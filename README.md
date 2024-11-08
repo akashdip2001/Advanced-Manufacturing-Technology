@@ -1,4 +1,4 @@
-# -Advanced-Manufacturing-Technology
+# Advanced-Manufacturing-Technology
 
 ## Contents
 1. **Introduction to Nontraditional Machining (NTM)**
