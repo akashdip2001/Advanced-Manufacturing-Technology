@@ -23,6 +23,7 @@ Advanced_Manufacturing_Process/
 │   │   ├── Applications.txt
 │   │   └── Limitations.txt
 │   └── Summary.txt
+│
 ├── 2_Electro_Chemical_Processes/
 │   ├── Principle_of_ECM/
 │   │   ├── Process_Chemistry.txt
@@ -45,6 +46,7 @@ Advanced_Manufacturing_Process/
 │   │   ├── Advantages_and_Disadvantages.txt
 │   │   └── Applications.txt
 │   └── Summary.txt
+│
 ├── 3_Electric_Discharge_Machining_(EDM)/
 │   ├── Working_Principle/
 │   │   ├── RC_Pulse_Generator.txt
@@ -65,6 +67,7 @@ Advanced_Manufacturing_Process/
 │   │   ├── Electric_Discharge_Grinding_(EDG).txt
 │   │   └── Electric_Discharge_Diamond_Grinding_(EDDG).txt
 │   └── Summary.txt
+│
 ├── 4_Laser_Electron_Ion_Plasma_Machining/
 │   ├── Laser_Beam_Machining/
 │   │   ├── Working_Principle.txt
@@ -87,6 +90,7 @@ Advanced_Manufacturing_Process/
 │   │   ├── Torch_Types.txt
 │   │   └── Applications.txt
 │   └── Summary.txt
+│
 ├── 5_Advanced_Finishing_Processes/
 │   ├── Abrasive_Flow_Machining_(AFM)/
 │   │   ├── Working_Principle.txt
@@ -94,15 +98,8 @@ Advanced_Manufacturing_Process/
 │   │   ├── Performance.txt
 │   │   └── Applications.txt
 │   ├── Magnetic_Abrasive_Finishing_(MAF)/
-│   │   ├── Working_Principle.txt
-│   │   ├── System_and_Variables.txt
-│   │   ├── Material_Removal_and_Surface_Finish.txt
-│   │   └── Applications.txt
-│   ├── Chemomechanical_Polishing/
-│   │   ├── Working_Principle.txt
-│   │   ├── Material_Removal_and_Surface_Finish.txt
-│   │   └── Applications.txt
-│   └── Summary.txt
+│   └── Chemomechanical_Polishing/
+│
 └── 6_Micro_Machining/
     ├── Introduction/
     │   ├── Need_and_Evolution.txt
