@@ -1,5 +1,127 @@
 # Advanced-Manufacturing-Technology
 
+```yaml
+Advanced_Manufacturing_Process/
+├── 1_Mechanical_Advanced_Machining_Processes/
+│   ├── Need_and_Classification/
+│   │   ├── Nontraditional_Machining_Processes.txt
+│   │   ├── Traditional_vs_Nontraditional_Comparison.txt
+│   │   └── Process_Selection_Considerations.txt
+│   ├── Ultrasonic_Machining/
+│   │   ├── Working_Principle.txt
+│   │   ├── Metal_Removal_Theory_(Shaw).txt
+│   │   ├── Process_Elements_and_Tool_Feed.txt
+│   │   ├── Parameters_and_Effects.txt
+│   │   ├── Applications.txt
+│   │   └── Numerical_Problems.txt
+│   ├── Abrasive_Based_Processes/
+│   │   ├── Abrasive_Jet_Machining_(AJM).txt
+│   │   ├── Water_Jet_Machining_(WJM).txt
+│   │   ├── Abrasive_Water_Jet_Machining_(AWJM).txt
+│   │   ├── Principles_and_Equipment.txt
+│   │   ├── Variables_and_MRR.txt
+│   │   ├── Applications.txt
+│   │   └── Limitations.txt
+│   └── Summary.txt
+├── 2_Electro_Chemical_Processes/
+│   ├── Principle_of_ECM/
+│   │   ├── Process_Chemistry.txt
+│   │   ├── Metal_Removal_Rate_(MRR).txt
+│   │   ├── Dynamics_and_Polarization.txt
+│   │   └── Process_Parameters.txt
+│   ├── Tool_Design/
+│   │   ├── Advantages_and_Disadvantages.txt
+│   │   └── Applications.txt
+│   ├── Specialized_ECM_Applications/
+│   │   ├── Electrochemical_Grinding.txt
+│   │   ├── Electrochemical_Honing.txt
+│   │   ├── Electrochemical_Deburring.txt
+│   │   ├── Electrostream_Drilling.txt
+│   │   └── Shaped_Tube_Electrolytic_Machining.txt
+│   ├── Chemical_Machining/
+│   │   ├── Fundamental_Principle.txt
+│   │   ├── Types_and_Maskants.txt
+│   │   ├── Etchants.txt
+│   │   ├── Advantages_and_Disadvantages.txt
+│   │   └── Applications.txt
+│   └── Summary.txt
+├── 3_Electric_Discharge_Machining_(EDM)/
+│   ├── Working_Principle/
+│   │   ├── RC_Pulse_Generator.txt
+│   │   ├── Controlled_Pulse_Generator.txt
+│   │   ├── RC_Circuit_Analysis.txt
+│   │   └── Process_Parameters.txt
+│   ├── Mechanics_of_Metal_Removal/
+│   │   ├── Tool_Electrode_and_Dielectric_Fluid.txt
+│   │   ├── Surface_Finish_and_Accuracy.txt
+│   │   ├── Spark_Eroded_Surface_Characteristics.txt
+│   │   └── Recent_Developments.txt
+│   ├── Wire_EDM/
+│   │   ├── Working_Principle.txt
+│   │   ├── Process_Variables.txt
+│   │   ├── Characteristics.txt
+│   │   └── Applications.txt
+│   ├── Advanced_EDM/
+│   │   ├── Electric_Discharge_Grinding_(EDG).txt
+│   │   └── Electric_Discharge_Diamond_Grinding_(EDDG).txt
+│   └── Summary.txt
+├── 4_Laser_Electron_Ion_Plasma_Machining/
+│   ├── Laser_Beam_Machining/
+│   │   ├── Working_Principle.txt
+│   │   ├── Laser_Generation_and_Types.txt
+│   │   ├── Characteristics.txt
+│   │   └── Applications.txt
+│   ├── Electron_Beam_Machining/
+│   │   ├── Equipment.txt
+│   │   ├── Theory.txt
+│   │   ├── Characteristics.txt
+│   │   └── Applications.txt
+│   ├── Ion_Beam_Machining/
+│   │   ├── Metal_Removal_Mechanism.txt
+│   │   ├── Equipment.txt
+│   │   ├── Characteristics.txt
+│   │   └── Applications.txt
+│   ├── Plasma_Arc_Machining/
+│   │   ├── Metal_Removal_Mechanism.txt
+│   │   ├── Parameters_and_Characteristics.txt
+│   │   ├── Torch_Types.txt
+│   │   └── Applications.txt
+│   └── Summary.txt
+├── 5_Advanced_Finishing_Processes/
+│   ├── Abrasive_Flow_Machining_(AFM)/
+│   │   ├── Working_Principle.txt
+│   │   ├── System_and_Variables.txt
+│   │   ├── Performance.txt
+│   │   └── Applications.txt
+│   ├── Magnetic_Abrasive_Finishing_(MAF)/
+│   │   ├── Working_Principle.txt
+│   │   ├── System_and_Variables.txt
+│   │   ├── Material_Removal_and_Surface_Finish.txt
+│   │   └── Applications.txt
+│   ├── Chemomechanical_Polishing/
+│   │   ├── Working_Principle.txt
+│   │   ├── Material_Removal_and_Surface_Finish.txt
+│   │   └── Applications.txt
+│   └── Summary.txt
+└── 6_Micro_Machining/
+    ├── Introduction/
+    │   ├── Need_and_Evolution.txt
+    │   ├── Fundamentals_and_Trends.txt
+    │   ├── Consequences_on_Society.txt
+    │   └── Challenges_in_Technology.txt
+    ├── Precision_Manufacturing/
+    │   ├── Evolution_and_Scenario.txt
+    │   ├── Requirements.txt
+    │   └── Applications.txt
+    ├── Theory_of_Micromachining/
+    │   ├── Chip_Formation.txt
+    │   ├── Size_Effect.txt
+    │   ├── Microturning.txt
+    │   └── Microdrilling.txt
+    └── Summary.txt
+
+```
+
 ## Contents
 1. **Introduction to Nontraditional Machining (NTM)**
 2. **Material Removal in Traditional vs. Nontraditional Machining**
